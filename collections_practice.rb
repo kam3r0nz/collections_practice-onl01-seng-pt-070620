@@ -42,6 +42,6 @@ def add_s(array)
     if array[1] == i
       i
     else
-      array
-  
+      i + "s"
+  end
 end
