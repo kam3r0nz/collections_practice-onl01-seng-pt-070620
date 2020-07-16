@@ -29,5 +29,5 @@ end
 
 def find_a(array)
   array.find do |i|
-    i.starts_with?
+    i.starts_with?("a")
 end
